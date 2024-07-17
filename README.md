@@ -7,4 +7,6 @@
 
 - Project 3: Exploratory data analysis with R
 
+- Project 4: Netflix movie streaming analytics reporting
+
 
